@@ -2,16 +2,6 @@ GAME IN PYTHON
 - pygame module requried
 
 
-Game Developed By Rohit Ravikant 
-
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
-
-
-***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
-
-
-***** FOR MORE PROJECTS :- https://code-projects.org/ *****
-
-
-- Game modified to be playble by physically jumping holding any android device by Rudra and Saswat
+Game Developed By Rohit Ravikant https://code-projects.org/
+Game Modified to be playble by physically jumping holding any android device by Rudra and Saswat.
 
