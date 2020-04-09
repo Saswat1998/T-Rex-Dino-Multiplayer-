@@ -1,8 +1,8 @@
-DINO RUN GAME IN PYTHON
+GAME IN PYTHON
 - pygame module requried
 
 
-Developed By Rohit Ravikant 
+Game Developed By Rohit Ravikant 
 
 ***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
 
@@ -13,5 +13,5 @@ Developed By Rohit Ravikant
 ***** FOR MORE PROJECTS :- https://code-projects.org/ *****
 
 
+- Game modified to be playble by physically jumping holding any android device by Rudra and Saswat
 
-#THANK YOU FOR DOWNLOADING
