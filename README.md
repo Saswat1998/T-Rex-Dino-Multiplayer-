@@ -4,9 +4,9 @@ Making the famous T-Rex-Dino game (populary known as Google offline game) more i
 ## Steps to use
 - Run registration.py
 - Login and let the game title show
-- Install Android Application
+- Launch Android Application
 - Open up 'cmd' in Windows
-- type 'ipconfig' to get IPv4 address of PC
+- type 'ipconfig' to get IPv4 address of PC ( required once if you can remember )
 - Open Android app and enter the IPv4 address and press Start
 - Ensure game window is active on pc by clicking on it once
 - Jump with your Android device
