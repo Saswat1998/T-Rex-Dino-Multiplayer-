@@ -10,3 +10,6 @@ Making the famous T-Rex-Dino game (populary known as Google offline game) more i
 - Open Android app and enter the IPv4 address and press Start
 - Ensure game window is active on pc by clicking on it once
 - Jump with your Android device
+
+![](Dino.gif)
+![](Jump.gif)
