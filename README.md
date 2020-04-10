@@ -1,5 +1,6 @@
 # T-Rex-Dino-Multiplayer-
 Making the famous T-Rex-Dino game (populary known as Google offline game) more interactive, fun and multiplayer
+To play this game ensure that the computer and the anroid device are on same Wi-Fi network.
 
 ## Steps to use
 - Run registration.py
