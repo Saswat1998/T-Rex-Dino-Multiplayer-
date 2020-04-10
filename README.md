@@ -1,7 +1,7 @@
 # T-Rex-Dino-Multiplayer-
 Making the famous T-Rex-Dino game (populary known as Google offline game) more interactive, fun and multiplayer
 
-#Steps to use
+## Steps to use
 - Run registration.py
 - Login and let the game title show
 - Install Android Application
