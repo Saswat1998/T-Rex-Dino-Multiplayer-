@@ -1,5 +1,5 @@
 # T-Rex-Dino-Multiplayer-
-Making the famous T-Rex-Dino game (populary known as Google offline game) more interactive, fun and multiplayer.
+Experimenting With The Google Offline Game
 ### To play this game ensure that the PC and the Android device are on same Wi-Fi network.
 
 ## Steps to use
